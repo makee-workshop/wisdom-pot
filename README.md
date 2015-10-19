@@ -1,6 +1,7 @@
 # Makee.io wisdom-pot workshop
 
-
+###### License
+==============
 ###### Copyright 2015 Oranwind Inc. All rights reserved.
 
 Unless required by applicable law or agreed to in writing, software
