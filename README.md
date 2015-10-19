@@ -1,6 +1,6 @@
 # Makee.io wisdom-pot workshop
 
-Philosophy
+## Philosophy
 ==============
 在兩天的工作坊中，你將學得：
 * 認識Arudino Yún平台及IOT開發架構；
@@ -10,7 +10,7 @@ Philosophy
 * 實作：聯網智慧盆栽
 
 
-License
+## License
 ==============
 ###### Copyright 2015 Oranwind Inc. All rights reserved.
 
