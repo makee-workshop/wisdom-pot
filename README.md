@@ -1,7 +1,7 @@
 # Makee.io wisdom-pot workshop
 
 ## Philosophy
-==============
+
 在兩天的工作坊中，你將學得：
 * 認識Arudino Yún平台及IOT開發架構；
 * 軟體：Arduino語法、OpenWrt、Bridge、Python等；
@@ -11,7 +11,7 @@
 
 
 ## License
-==============
+
 ###### Copyright 2015 Oranwind Inc. All rights reserved.
 
 Unless required by applicable law or agreed to in writing, software
